@@ -1,2 +1,3 @@
-### Actividad Numero 2 Desarrollo Web
+# Actividad Numero 2 Desarrollo Web
 ## Paolo Caviedes Saavedra
+### paolo.caviedes@gmail.com
